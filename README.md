@@ -184,14 +184,6 @@ Where:
 - α: learning rate
 - γ: discount factor
 
-## Contributing
-
-Feel free to extend this implementation by:
-- Adding new environments
-- Implementing other RL algorithms (SARSA, Expected SARSA, etc.)
-- Adding function approximation methods
-- Implementing visualization tools
-
 ## License
 
 This project is open source and available under the MIT License. 
