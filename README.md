@@ -6,9 +6,9 @@ A C++ implementation of the Q-Learning reinforcement learning algorithm applied 
 
 The agent learns to navigate from a start position to a goal position on a frozen lake while avoiding holes. The environment includes slip probability, making movement stochastic and requiring the agent to learn robust policies.
 
-![Development Process](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTZ0cWk2Ymh6cmcydGhuZ25idXpvMnEyMjJqZXB4aXZsZTdjcDJwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EHT1PrUU6p3FFATSmw/giphy.gif)
+[![Development Process](process.jpg)](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTZ0cWk2Ymh6cmcydGhuZ21idXpvMnEyMjJqZXB4aXZsZTdjcDJwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EHT1PrUU6p3FFATSmw/giphy.gif)
 
-*Development process of creating this Q-Learning implementation*
+*Development process of creating this Q-Learning implementation (click to view animated GIF)*
 
 ## Project Structure
 
